@@ -31,3 +31,7 @@
 ### [TensorFlow学习（十四）：条件随机场CRF](https://blog.csdn.net/xierhacker/article/details/78923758)
 
 ### [TensorFlow学习（十五）：使用tf.data来创建输入流(上)](https://blog.csdn.net/xierhacker/article/details/79002902)
+
+### [TensorFlow学习（十六）：使用tf.data来创建输入流(下)](https://blog.csdn.net/xierhacker/article/details/79698165)
+
+### [TensorFlow学习（十七）：高级API之tf.layers](https://blog.csdn.net/xierhacker/article/details/82747919)
